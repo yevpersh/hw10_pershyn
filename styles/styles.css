@@ -26,8 +26,9 @@ button{
     width: 120px;
     height: 35px;
     border-radius: 6px;
+    border: 2px solid red;
 }
 h2{
     font-size: 35px;
-    margin: 20px;
+    margin: 20px 0;
 }
